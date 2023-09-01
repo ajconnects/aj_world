@@ -1,5 +1,5 @@
 # Introduction:
-* My names are Ajiri Michael Iviero (Aj_connects), and I currently studies a Python Programmer Course.
+* My names are Ajiri Michael Iviero (Aj_connects), and I currently studies a Python Programmer Course in DCI.
 
 ## Background:
 * I studies Economics in school in my Bachelor degree and i have been a Forex and Crypto trader for about fives years. I have develop on this skills for the past years.
