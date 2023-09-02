@@ -17,7 +17,7 @@
 
 * Hobbies: Enjoys playing video games, socializing with friends, exploring new experiences, and listening to music.
 
-##  🫱🏻‍🫲🏿 Conclusion and Let Connect:
+##  🫱🏻‍🫲🏿 Let Connect:
  * Eager to connect and explore opportunities.
  * Enjoys networking and collaborating with diverse professionals and teams.
  * Taking the `Digital world` to next level.
