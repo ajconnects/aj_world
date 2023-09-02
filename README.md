@@ -1,20 +1,23 @@
-# Introduction:
-* My names are Ajiri Michael Iviero (Aj_connects), and I currently studies a Python Programmer Course in DCI.
 
-## Background:
-* I studies Economics in school in my Bachelor degree and i have been a Forex and Crypto trader for about fives years. I have develop on this skills for the past years.
+## 👋 Hello 
 
-## Passion:
-* I have a great passions to become one of the best `Programmer` and `Cyber Security Analysis`, which has been the driving force behind this journey.
+# Welcome to my profile.
 
-## Values:
-* My approach is guided by [My Independence and My Personal Growth], which i hold dear in both my personal and professional life.
+![background picture](picture3c.jpeg)
 
-## Hobbies:
-* Outside of work, I enjoy[ Playing Videos Games, Having drinks with my friends, exploring new things, listening to nice music], which provides balances and inspiration to me.
+#### I am Ajiri Michael Iviero (Aj_connects), and I am fullstack Programmer.
 
-## Conclusion
-* I look forward to get an email back from you and we can have the opportunity to connect more.
+##  🤠 About Me.
 
-## Details
-* Emails = ajiriiviero2021@gmail.com
+* Background: Bachelor's degree in Economics and five years of experience as a Forex and Crypto trader.
+
+* Passion: Aspires to excel in programming and become a cybersecurity analyst.
+
+* Values: Values independence and personal growth in both personal and professional life.
+
+* Hobbies: Enjoys playing video games, socializing with friends, exploring new experiences, and listening to music.
+
+##  🫱🏻‍🫲🏿 Conclusion and Let Connect:
+ * Eager to connect and explore opportunities.
+ * Enjoys networking and collaborating with diverse professionals and teams.
+ * Taking the `Digital world` to next level.
