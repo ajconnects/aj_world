@@ -5,11 +5,11 @@
 
 ![background picture](picture3c.jpeg)
 
-#### I am Ajiri Michael Iviero (Aj_connects), and I am fullstack Programmer.
+#### I am Ajiri Michael Iviero (Aj_connects), and I am currently studying to become a fullstack Programmer.
 
 ##  🤠 About Me.
 
-* Background: Bachelor's degree in Economics and five years of experience as a Forex and Crypto trader.
+* Background: Bachelor's degree in Economics and years of experience as a Forex and Crypto trader.
 
 * Passion: Aspires to excel in programming and become a cybersecurity analyst.
 
