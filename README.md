@@ -11,7 +11,7 @@
 
 * Background: Bachelor's degree in Economics and years of experience as a Forex and Crypto trader.
 
-* Passion: Aspires to excel in programming and become a cybersecurity analyst.
+* Passion: Aspires to excel in programming world.
 
 * Values: Values independence and personal growth in both personal and professional life.
 
